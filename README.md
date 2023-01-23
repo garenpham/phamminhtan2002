@@ -4,6 +4,8 @@ I'm a CIT student at BCIT, majoring in full stack web developments.
 
 ### Projects I have done:
 
+Please access the deployment website in the About section.
+
 1. [Homework Tracker App](https://github.com/udaychhina/acit2911)
 2. [Tiktok App](https://github.com/phamminhtan2002/tiktok-typescript)
 3. [Airbnb Frontend](https://github.com/phamminhtan2002/airbnb-nextjs)
