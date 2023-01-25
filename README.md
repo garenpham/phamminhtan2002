@@ -29,9 +29,10 @@ Vancouver, Canada. You can find me on
 ![](https://img.shields.io/badge/Code-Python-4285F4?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 ![](https://img.shields.io/badge/Code-Java-4285F4?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 
-### Projects:
+# 📊 GitHub Stats
 
-Please access the deployment website in the About section.
+[![Tan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=phamminhtan2002&hide=issues&count_private=true&show_icons=true)](https://github.com/phamminhtan2002)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phamminhtan2002&layout=compact)](https://github.com/phamminhtan2002)
 
 1. [Tiktok App](https://github.com/phamminhtan2002/tiktok-typescript)
 2. [Airbnb Frontend](https://github.com/phamminhtan2002/airbnb-nextjs)
