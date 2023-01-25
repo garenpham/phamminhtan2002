@@ -26,12 +26,6 @@ Vancouver, Canada. You can find me on
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=udaychhina&repo=acit2911&theme=algolia" />
 </a>
 
-1. [Tiktok App](https://github.com/phamminhtan2002/tiktok-typescript)
-2. [Airbnb Frontend](https://github.com/phamminhtan2002/airbnb-nextjs)
-3. [Twitter App with Web3 Authentication and NFT Minting](https://github.com/phamminhtan2002/twitter-blockchain)
-4. [Secret Message Club App using Firebase Storage](https://github.com/phamminhtan2002/secret_msg_c)
-5. [Homework Tracker App](https://github.com/udaychhina/acit2911)
-
 # 🔧 Technologies and Tools
 
 ![](https://img.shields.io/badge/OS-Linux-4285F4?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
