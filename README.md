@@ -27,7 +27,6 @@ Vancouver, Canada. You can find me on
 ![](https://img.shields.io/badge/Code-HTML-4285F4?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 ![](https://img.shields.io/badge/Code-CSS-4285F4?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 ![](https://img.shields.io/badge/Code-Python-4285F4?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-![](https://img.shields.io/badge/Code-Java-4285F4?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 
 # 📊 GitHub Stats
 
