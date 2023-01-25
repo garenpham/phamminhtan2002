@@ -8,11 +8,21 @@ Vancouver, Canada. You can find me on
 # 🔧 Technologies and Tools
 
 ![](https://img.shields.io/badge/OS-Linux-4285F4?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-![](https://img.shields.io/badge/OS-Windows_Server_2022-4285F4?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/OS-Windows_Server-4285F4?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 ![](https://img.shields.io/badge/OS-Windows_10-4285F4?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 
 ![](https://img.shields.io/badge/Editor-VS_Code-4285F4?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 ![](https://img.shields.io/badge/Editor-Vim-4285F4?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+
+![](https://img.shields.io/badge/Framework-React-4285F4?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/Framework-Next.js-4285F4?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+
+![](https://img.shields.io/badge/Code-TypeScript-4285F4?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/Code-JavaScript-4285F4?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/Code-HTML-4285F4?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/Code-CSS-4285F4?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/Code-Python-4285F4?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/Code-Java-4285F4?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 
 ### Projects:
 
