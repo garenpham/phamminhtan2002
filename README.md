@@ -32,15 +32,13 @@ Vancouver, Canada. You can find me on
 ![](https://img.shields.io/badge/OS-Windows_Server-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Windows_10-informational?style=flat&logo=windowsxp&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tool-Jenkins-4285F4?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-![](https://img.shields.io/badge/Tool-Jira-4285F4?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-![](https://img.shields.io/badge/Tool-Confluence-4285F4?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-
-![](https://img.shields.io/badge/Editor-VS_Code-4285F4?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-![](https://img.shields.io/badge/Editor-Vim-4285F4?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-
-![](https://img.shields.io/badge/Framework-React-4285F4?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-![](https://img.shields.io/badge/Framework-Next.js-4285F4?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/Tool-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-Jira-informational?style=flat&logo=jira&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-Confluence-informational?style=flat&logo=confluence&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=vim&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=nextdotjs&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Code-TypeScript-4285F4?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 ![](https://img.shields.io/badge/Code-JavaScript-4285F4?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
