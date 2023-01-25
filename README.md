@@ -52,5 +52,5 @@ Vancouver, Canada. You can find me on [![LinkedIn][1]][2].
 
 <!-- Icons and links -->
 
-[1]: https://imgur.com/PXyIkWx/png
+[1]: https://imgur.com/PXyIkWx.png
 [2]: https://www.linkedin.com/in/phamminhtan/
