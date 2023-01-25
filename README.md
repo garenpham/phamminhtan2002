@@ -5,7 +5,7 @@ web developments.. I was born and raised in Vietnam and am now located in
 Vancouver, Canada. You can find me on
 <a href="https://www.linkedin.com/in/phamminhtan/" target="_blank" rel="noreferrer">LinkedIn</a>.
 
-# 📊 GitHub Projects
+# 📊 Projects
 
 [![Tan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=phamminhtan2002&hide=issues&theme=yeblu&count_private=true&show_icons=true)](https://github.com/phamminhtan2002)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phamminhtan2002&theme=yeblu&layout=compact)](https://github.com/phamminhtan2002)
