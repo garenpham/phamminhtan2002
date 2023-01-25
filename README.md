@@ -31,6 +31,7 @@ Vancouver, Canada. You can find me on
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Windows_Server-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Windows_10-informational?style=flat&logo=windowsxp&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-WordPress-informational?style=flat&logo=wordpress&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-Jira-informational?style=flat&logo=jira&logoColor=white&color=2bbc8a)
