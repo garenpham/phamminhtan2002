@@ -1,6 +1,9 @@
-## Hello there 👋
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Hi there!
 
-I'm a CIT student at BCIT, majoring in full stack web developments.
+My name is Phạm Minh Tân and I'm a CIT student at BCIT, majoring in full stack
+web developments.. I was born and raised in Vietnam and am now located in
+Vancouver, Canada. You can find me on
+<a href="https://www.linkedin.com/in/phamminhtan/" target="_blank" rel="noreferrer">LinkedIn</a>.
 
 ### Projects:
 
