@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Hi there!
+# <img src="https://raw.githubusercontent.com/phamminhtan2002/phamminhtan2002/main/wave.gif" width="30px" height="30px" /> Hi there!
 
 My name is Phạm Minh Tân and I'm a CIT student at BCIT, majoring in full stack
 web developments.. I was born and raised in Vietnam and am now located in
