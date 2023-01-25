@@ -13,6 +13,9 @@ Vancouver, Canada. You can find me on
 <a href="https://github.com/phamminhtan2002/tiktok-typescript">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=phamminhtan2002&repo=tiktok-typescript&theme=algolia" />
 </a>
+<a href="https://github.com/phamminhtan2002/airbnb-nextjs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=phamminhtan2002&repo=airbnb-nextjs&theme=algolia" />
+</a>
 
 1. [Tiktok App](https://github.com/phamminhtan2002/tiktok-typescript)
 2. [Airbnb Frontend](https://github.com/phamminhtan2002/airbnb-nextjs)
