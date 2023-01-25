@@ -30,8 +30,8 @@ Vancouver, Canada. You can find me on
 
 # 📊 GitHub Stats
 
-[![Tan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=phamminhtan2002&hide=issues&count_private=true&show_icons=true)](https://github.com/phamminhtan2002)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phamminhtan2002&layout=compact)](https://github.com/phamminhtan2002)
+[![Tan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=phamminhtan2002&hide=issues&theme=merko&count_private=true&show_icons=true)](https://github.com/phamminhtan2002)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phamminhtan2002&theme=merko&layout=compact)](https://github.com/phamminhtan2002)
 
 1. [Tiktok App](https://github.com/phamminhtan2002/tiktok-typescript)
 2. [Airbnb Frontend](https://github.com/phamminhtan2002/airbnb-nextjs)
