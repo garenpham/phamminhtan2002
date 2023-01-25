@@ -16,6 +16,15 @@ Vancouver, Canada. You can find me on
 <a href="https://github.com/phamminhtan2002/airbnb-nextjs">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=phamminhtan2002&repo=airbnb-nextjs&theme=algolia" />
 </a>
+<a href="https://github.com/phamminhtan2002/twitter-blockchain">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=phamminhtan2002&repo=twitter-blockchain&theme=algolia" />
+</a>
+<a href="https://github.com/phamminhtan2002/secret_msg_c">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=phamminhtan2002&repo=secret_msg_c&theme=algolia" />
+</a>
+<a href="https://github.com/udaychhina/acit2911">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=udaychhina&repo=acit2911&theme=algolia" />
+</a>
 
 1. [Tiktok App](https://github.com/phamminhtan2002/tiktok-typescript)
 2. [Airbnb Frontend](https://github.com/phamminhtan2002/airbnb-nextjs)
