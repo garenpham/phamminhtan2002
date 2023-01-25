@@ -28,7 +28,7 @@ Vancouver, Canada. You can find me on
 ![](https://img.shields.io/badge/Code-CSS-4285F4?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 ![](https://img.shields.io/badge/Code-Python-4285F4?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 
-# 📊 GitHub Stats
+# 📊 GitHub Projects
 
 [![Tan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=phamminhtan2002&hide=issues&theme=yeblu&count_private=true&show_icons=true)](https://github.com/phamminhtan2002)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phamminhtan2002&theme=yeblu&layout=compact)](https://github.com/phamminhtan2002)
