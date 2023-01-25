@@ -2,8 +2,7 @@
 
 My name is Phạm Minh Tân and I'm a CIT student at BCIT, majoring in full stack
 web developments.. I was born and raised in Vietnam and am now located in
-Vancouver, Canada. You can find me on
-[![LinkedIn][https://raw.githubusercontent.com/phamminhtan2002/phamminhtan2002/main/linkedinicon.png]][2].
+Vancouver, Canada. You can find me on [![LinkedIn][1]][2].
 
 # 📊 Projects
 
@@ -53,4 +52,6 @@ Vancouver, Canada. You can find me on
 
 <!-- Icons and links -->
 
+[1]:
+	https://raw.githubusercontent.com/phamminhtan2002/phamminhtan2002/main/linkedinIcon.png
 [2]: https://www.linkedin.com/in/phamminhtan/
