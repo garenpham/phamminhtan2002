@@ -13,6 +13,9 @@ Vancouver, Canada. You can find me on
 <a href="https://github.com/phamminhtan2002/acit3855-microservices">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=phamminhtan2002&repo=acit3855-microservices&theme=algolia" />
 </a>
+<a href="https://github.com/phamminhtan2002/amazon-fullstack">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=phamminhtan2002&repo=amazon-fullstack&theme=algolia" />
+</a>
 <a href="https://github.com/phamminhtan2002/tiktok-typescript">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=phamminhtan2002&repo=tiktok-typescript&theme=algolia" />
 </a>
@@ -24,9 +27,6 @@ Vancouver, Canada. You can find me on
 </a>
 <a href="https://github.com/phamminhtan2002/secret_msg_c">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=phamminhtan2002&repo=secret_msg_c&theme=algolia" />
-</a>
-<a href="https://github.com/udaychhina/acit2911">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=udaychhina&repo=acit2911&theme=algolia" />
 </a>
 
 # 🔧 Technologies and Tools
